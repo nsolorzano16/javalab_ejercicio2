@@ -1,0 +1,8 @@
+clientws\service\CaF.class
+clientws\service\CaFResponse.class
+clientws\service\package-info.class
+clientws\service\Conversor.class
+clientws\service\FaCResponse.class
+clientws\service\FaC.class
+clientws\service\ConversorSoap.class
+clientws\service\ObjectFactory.class
